@@ -46,7 +46,7 @@ You may already have the Windows Terminal installed. If not, you can [install it
 
 The Windows Subsystem for Linux (WSL) lets you run a GNU/Linux environment directly on Windows without the overhead of a traditional virtual machine or dualboot setup.
 
-Let's install Ubuntu Linux version on the WSL! Ideally on WSL2. Installation instructions are provided for both WSL and WSL2 below.
+Let's install Ubuntu Linux version 20.04 or higher on the WSL! It is recommended that you install WSL2. WSL1 Installation instructions are also provided below for anyone using an older PC. 
 
 WSL2
 
@@ -180,7 +180,7 @@ The output should look something like this, although you version numbers may var
 ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x86_64-linux]
 
 ~ $ rails -v
-Rails 7.0.4
+Rails 7.0.5
 
 ~ $ git --version
 git version 2.17.1
